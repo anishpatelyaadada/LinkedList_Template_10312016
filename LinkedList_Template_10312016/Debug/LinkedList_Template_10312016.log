@@ -1,0 +1,17 @@
+﻿  LinkedList.cpp
+  LinkedList_Template.cpp
+g:\linkedlist_template_10312016\linkedlist_template_10312016\linkedlist.h(106): warning C4101: 'newNode': unreferenced local variable
+  g:\linkedlist_template_10312016\linkedlist_template_10312016\linkedlist.h(105): note: while compiling class template member function 'void LinkedList<int>::deleteNode(T)'
+          with
+          [
+              T=int
+          ]
+  g:\linkedlist_template_10312016\linkedlist_template_10312016\linkedlist_template.cpp(16): note: see reference to function template instantiation 'void LinkedList<int>::deleteNode(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  g:\linkedlist_template_10312016\linkedlist_template_10312016\linkedlist_template.cpp(3): note: see reference to class template instantiation 'LinkedList<int>' being compiled
+  Generating Code...
+  LinkedList_Template_10312016.vcxproj -> G:\LinkedList_Template_10312016\Debug\LinkedList_Template_10312016.exe
+  LinkedList_Template_10312016.vcxproj -> G:\LinkedList_Template_10312016\Debug\LinkedList_Template_10312016.pdb (Full PDB)
